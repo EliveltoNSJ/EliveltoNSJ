@@ -7,8 +7,9 @@
 
 <div align="center">
   <a href="https://github.com/EliveltoNSJ">
-  <img img height="130em" src="https://github-readme-stats.vercel.app/api?username=EliveltoNSJ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliveltoNSJ&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api?username=EliveltoNSJ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliveltoNSJ&layout=compact&langs_count=7&theme=tokyonight"/>
+    
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -33,5 +34,6 @@
   <a target="_blank"><img src= https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white>
   <a target="_blank"><img src= https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white>
   
+    ![Snake animation](https://github.com/EliveltoNSJ/EliveltoNSJ/blob/output/github-contribution-grid-snake.svg)
   
 <div/>
