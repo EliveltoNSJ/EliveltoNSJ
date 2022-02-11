@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/EliveltoNSJ">
-  <img img width="48%" src="https://github-readme-stats.vercel.app/api?username=EliveltoNSJ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliveltoNSJ&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img img height="100em" src="https://github-readme-stats.vercel.app/api?username=EliveltoNSJ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliveltoNSJ&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
