@@ -25,7 +25,6 @@
   <a href="https://www.linkedin.com/in/elivelton-silva-de-jesus-5a5487116" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a target="_blank"><img src= https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white>
   <a target="_blank"><img src= https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white>
-  <a target="_blank"><img src= https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white>
   <a target="_blank"><img src= https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white>
   <a target="_blank"><img src= https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white>
   
