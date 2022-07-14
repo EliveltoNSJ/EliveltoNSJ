@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Elivelton
 
 -✈️ Hoje eu trabalho com Automatização de processos
--*️⃣ Estudo Front end e Back end
+-*️⃣ Back-end
 -⚡ Sou Extremamente Focado
 -💻 E-mail: eliveltonowna@hotmail.com
 
