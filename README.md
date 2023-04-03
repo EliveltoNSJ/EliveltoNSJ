@@ -1,8 +1,5 @@
-### Olá! Eu sou o Elivelton
+Desenvolvedor de Software Back-End especializado em ADVPL, Java, RPA e SQL. Experiência em projetos de grande porte com Github e ênfase em automação de processos e melhoria de performance.
 
--✈️ Software Engineer at Advpl
--*️⃣ Back-end
--⚡ Sou Extremamente Focado
 -💻 E-mail: eliveltonowna@hotmail.com
 
 </div>
