@@ -1,4 +1,6 @@
-Sou um engenheiro de software apaixonado por tecnologia, especializado em resolver problemas de baixa à alta complexidade. Destaco-me pela autonomia, documentação minuciosa, rigoroso controle de qualidade do código, e atuação dentro da metodologia ágil. Ênfase em Java e Spring Framework, contribuo para inovações em códigos eficientes e agilizo processos com transparência e comunicação clara.
+Sou um engenheiro de software apaixonado por tecnologia, especializado em resolver problemas de baixa à alta complexidade.
+
+Java e Spring Framework
 
 -💻 E-mail: eliveltonowna@hotmail.com
 
